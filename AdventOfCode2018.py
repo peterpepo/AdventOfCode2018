@@ -7,3 +7,7 @@ print(RESULT_PRINT_FORMAT.format(day_number="01", solution=day01.solve()))
 # Run day02
 from day02 import day02
 print(RESULT_PRINT_FORMAT.format(day_number="02", solution=day02.solve()))
+
+# Run day03
+from day03 import day03
+print(RESULT_PRINT_FORMAT.format(day_number="03", solution=day03.solve()))
